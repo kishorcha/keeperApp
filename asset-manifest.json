@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/keeperApp%20/static/css/main.886d68fa.css",
-    "main.js": "/keeperApp%20/static/js/main.83ee168c.js",
-    "index.html": "/keeperApp%20/index.html",
-    "main.886d68fa.css.map": "/keeperApp%20/static/css/main.886d68fa.css.map",
-    "main.83ee168c.js.map": "/keeperApp%20/static/js/main.83ee168c.js.map"
+    "main.css": "/NoteKeeper%20/static/css/main.886d68fa.css",
+    "main.js": "/NoteKeeper%20/static/js/main.83ee168c.js",
+    "index.html": "/NoteKeeper%20/index.html",
+    "main.886d68fa.css.map": "/NoteKeeper%20/static/css/main.886d68fa.css.map",
+    "main.83ee168c.js.map": "/NoteKeeper%20/static/js/main.83ee168c.js.map"
   },
   "entrypoints": [
     "static/css/main.886d68fa.css",
